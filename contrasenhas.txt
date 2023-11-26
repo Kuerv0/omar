@@ -1,0 +1,9 @@
+#Contraseñas
+Contraseña todos los routers modo privilegiado y acceso: cisco
+
+Contraseña AP de X y Y: ciscoclass
+Contraseña AP de Z: contrasena
+
+XX: 37
+YY: 98
+ZZ: 07
